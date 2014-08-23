@@ -1,4 +1,4 @@
 specs
 =====
 
-luics's personal cocoapods specs
+luics's private cocoapods spec repo.
